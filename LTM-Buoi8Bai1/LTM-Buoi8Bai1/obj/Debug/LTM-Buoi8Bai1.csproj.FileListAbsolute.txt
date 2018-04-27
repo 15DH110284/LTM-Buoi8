@@ -1,0 +1,10 @@
+D:\Năm 3\LTM\LTM-Buoi8Bai1\LTM-Buoi8Bai1\bin\Debug\LTM-Buoi8Bai1.exe.config
+D:\Năm 3\LTM\LTM-Buoi8Bai1\LTM-Buoi8Bai1\bin\Debug\LTM-Buoi8Bai1.exe
+D:\Năm 3\LTM\LTM-Buoi8Bai1\LTM-Buoi8Bai1\bin\Debug\LTM-Buoi8Bai1.pdb
+D:\Năm 3\LTM\LTM-Buoi8Bai1\LTM-Buoi8Bai1\obj\Debug\LTM-Buoi8Bai1.csprojResolveAssemblyReference.cache
+D:\Năm 3\LTM\LTM-Buoi8Bai1\LTM-Buoi8Bai1\obj\Debug\LTM_Buoi8Bai1.Form1.resources
+D:\Năm 3\LTM\LTM-Buoi8Bai1\LTM-Buoi8Bai1\obj\Debug\LTM_Buoi8Bai1.Properties.Resources.resources
+D:\Năm 3\LTM\LTM-Buoi8Bai1\LTM-Buoi8Bai1\obj\Debug\LTM-Buoi8Bai1.csproj.GenerateResource.cache
+D:\Năm 3\LTM\LTM-Buoi8Bai1\LTM-Buoi8Bai1\obj\Debug\LTM-Buoi8Bai1.csproj.CoreCompileInputs.cache
+D:\Năm 3\LTM\LTM-Buoi8Bai1\LTM-Buoi8Bai1\obj\Debug\LTM-Buoi8Bai1.exe
+D:\Năm 3\LTM\LTM-Buoi8Bai1\LTM-Buoi8Bai1\obj\Debug\LTM-Buoi8Bai1.pdb
